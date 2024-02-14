@@ -1,0 +1,7 @@
+D:\ОАиП\T17_3\obj\Debug\T17_3.csproj.AssemblyReference.cache
+D:\ОАиП\T17_3\obj\Debug\T17_3.csproj.CoreCompileInputs.cache
+D:\ОАиП\T17_3\bin\Debug\T17_3.exe.config
+D:\ОАиП\T17_3\bin\Debug\T17_3.exe
+D:\ОАиП\T17_3\bin\Debug\T17_3.pdb
+D:\ОАиП\T17_3\obj\Debug\T17_3.exe
+D:\ОАиП\T17_3\obj\Debug\T17_3.pdb
