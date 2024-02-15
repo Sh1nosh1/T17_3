@@ -11,7 +11,7 @@ namespace T17_3
     {
         static void Main(string[] args)
         {
-            try
+            try 
             {
                 Write("Enter the increasing coefficient: ");
                 double k = Convert.ToDouble(ReadLine());
