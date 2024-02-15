@@ -15,9 +15,9 @@ namespace T17_3
             {
                 Write("Enter the increasing coefficient: ");
                 double k = Convert.ToDouble(ReadLine());
-                Write("Enter base rate in tons: ");
-                double h = Convert.ToDouble(ReadLine());
-                double sum = 0;
+                Write("Enter base rate in tons: "); 
+                double h = Convert.ToDouble(ReadLine()); 
+                double sum = 0; 
                 List<Staff> staff = new List<Staff>();
                 bool flag = true;
                 while (flag)
